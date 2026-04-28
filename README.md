@@ -3,7 +3,7 @@
 A machine learning web app that classifies text as **Positive**, **Negative**, or **Neutral** using TF-IDF features and Logistic Regression, combined with VADER sentiment scoring.
 
 ## 🚀 Live Demo
-> Deploy to [Streamlit Cloud](https://streamlit.io/cloud) for free.
+> Deploy to [Streamlit Cloud](https://sentiment-analyzer-iyxkjwpguqzquogwxr97nx.streamlit.app/) for free.
 
 ## 📊 Model Performance
 | Metric | Score |
